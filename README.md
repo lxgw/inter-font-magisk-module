@@ -8,14 +8,4 @@ Designed by Rasmus Andersson, Inter is a font family for highly legible text on 
 
 ## Credit
 
-Designer: [Rasmus Andersson](https://rsms.me/about/) 
-
-## Author
-
-This module is made by *lxgw*.
-
-**Telegram:** @lxgwtg
-
-**Email:** calxgw2018@gmail.com
-
-**CoolApk:** UID: 633884
+Designer: [Rasmus Andersson](https://rsms.me/about/)
